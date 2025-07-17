@@ -5,7 +5,7 @@ from aiogram.filters import Command, CommandStart
 import logging
 from wikipedia import PageError, wikipedia
 
-BOT_TOKEN = '7762937649:AAGba6BVFMtN7krrr061EsGmZtSVLmoYI54'
+BOT_TOKEN = 'TOKEN'
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
